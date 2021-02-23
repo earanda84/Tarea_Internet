@@ -1,0 +1,202 @@
+/* CSS reset here*/
+* {
+    margin: 0px auto;
+    padding: 0px auto;
+    font-family: arial, sans-serif;
+}
+#contenedorPrincipal{
+    width: 970px;
+    height: auto;
+      
+}
+.internet{
+    color: #474747;
+    font-size: 50px;
+    position: relative;
+    left: 100px;
+    font-weight: 100;
+    bottom: 79px;
+
+}
+.internet span{
+    color: #22649E;
+}
+#banner{
+    color: #FFFFFF;
+    background: linear-gradient(0deg, rgba(39,104,159,1) 0%, rgba(81,131,172,1) 35%, rgba(40,105,160,1) 100%);
+    margin-block: -73px;
+    padding-top: 5px;
+}
+#banner h1{
+    font-weight: 100;
+    padding-left: 20px
+    
+}
+#caja1{
+    
+    background: linear-gradient(180deg, rgba(228,228,228,1) 0%, rgba(245,246,245,1) 50%, rgba(255,255,255,1) 100%);
+    display: inline-block;
+    width: 200px;
+      padding-top: 20px;
+    height: auto;
+    margin-top: 73px;
+}
+    
+
+#caja1 h4{
+    padding-bottom: 5px;
+}
+.p1{
+    font-size: smaller;
+    text-align: inherit;
+}
+.btn1{
+    background: linear-gradient(180deg, rgba(92,148,192,1) 0%, rgba(71,130,180,1) 50%, rgba(38,104,160,1) 100%);
+    color: #FFFFFF;
+    font: message-box;
+    width: inherit;
+    padding: 10px;
+    margin-block: 20px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #8e8e8e;
+    border: none;
+}
+.btn2{
+    background: linear-gradient(180deg, rgba(235,170,79,1) 0%, rgba(237,144,31,1) 50%, rgba(241,118,2,1) 100%);
+    color: #FFFFFF;
+    font: message-box;
+    width: inherit;
+    padding: 10px;
+    margin-block: 20px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #8e8e8e;
+    border: none;
+    margin-top: -10px;
+}
+.ul1{
+    background-image: url("../img/ad_background.png");
+    display: inline-block;
+    color: #FFFFFF;
+    font-size: x-large;
+    background-size: 415px 355px;
+    list-style: none;
+    padding: 10px;
+    width: -webkit-fill-available;    
+    padding-top: 20px;
+    text-align-last: center;
+
+}
+
+.ul1,li,p,img{
+    text-align: center;
+
+}
+.btn3{
+    background: linear-gradient(180deg, rgba(51,200,223,1) 0%, rgba(51,200,223,1) 50%, rgba(3,193,223,1) 100%);
+    color: #FFFFFF;
+    font: message-box;
+    width: -webkit-fill-available;
+    padding: 5px;
+    margin-block: 20px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #272727;
+    border: none;
+    margin-top: 10px;
+}
+#container2{
+    background: linear-gradient(180deg, rgba(228,228,228,1) 0%, rgba(245,246,245,1) 50%, rgba(255,255,255,1) 100%);
+    display: inline-block;
+    width: 763px;
+    height: 766px;
+    vertical-align: top;
+    margin-top: 73px;
+    padding-left: 2px;
+}
+.Dns{
+    display: inline-block;
+    color: #23659E;
+    font-weight: bolder;
+    vertical-align: top;
+}
+.phone{
+    display: inline-block;
+    vertical-align: super;
+    text-align: -webkit-right;
+    padding-left: 406px;
+}
+.ul2{
+    display: inline-block;
+}
+.ul2 p{
+    color: #585858;
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 45px;
+    letter-spacing: 0.32px;
+}
+.ul2 h3{
+    color: #00C0DF;
+    padding-left: 10px;
+    font-size: 25px;
+}
+#content1{
+    display: inline-block;
+    vertical-align: top;
+    letter-spacing: 0.032px;    
+    text-align: -webkit-left;
+   
+}
+#content1 h2{
+  
+    letter-spacing: 0.7px;
+    -webkit-text-stroke-width: thin;
+
+}
+.computersP{
+    padding: 10px 0px 5px 0px;
+    text-align: left;
+}
+.server{
+    padding-left: 245px;
+    padding-top: 31px;
+}
+
+.ul3, li, span{
+    text-align: -webkit-left;
+    -webkit-text-stroke-width: thin;
+}
+.adjust{
+    text-align: -webkit-left;
+    -webkit-text-stroke-width: thin;
+}
+#content2{
+    padding-top: 20px;
+}
+
+#content2, ol{
+    padding-top: 10px;
+    font-size: 15px;
+    padding-bottom: 3px;
+    line-height: 1.7;
+}
+
+#content3{
+    padding-top: 20px;
+    padding-left: 10px;
+    display: inline-block;
+    border-left: 5px solid #0085E0;
+    border-top: 5px solid #0085E0;
+    border-right: 5px solid #0085E0;
+    width: -webkit-fill-available;
+    margin-top: 10px;
+    height: 125px;
+    
+}
+
+.content3ul{    
+    margin-left: 129px;
+    position: relative;
+    bottom: 126px;
+    text-align-last: left;
+
+}
